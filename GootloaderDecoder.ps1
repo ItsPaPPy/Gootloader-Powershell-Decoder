@@ -20,7 +20,7 @@ param (
 
 IF ( !( Test-Path $directory)) {
     Write-Host "$directory is not a valid path"
-    Write-Host "Usage: .\UP_GootloaderDecoder.ps1 -directory <directory_to_search>"
+    Write-Host "Usage: .\GootloaderDecoder.ps1 -directory <directory_to_search>"
     exit
 }
 
