@@ -4,7 +4,7 @@
 # author            : @ItsPaPPy
 # date              : 20210801
 # version           : 1.0
-# usage             : powershell.exe .\decode.py -d <directory_to_search>
+# usage             : powershell.exe .\GootloaderDecoder.ps1 -d <directory_to_search>
 #==============================================================================
 
 Gootloader decoder and URL extractor
